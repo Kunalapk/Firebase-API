@@ -20,11 +20,12 @@ This sample comes with a web-based UI for testing the function. To test locally 
 </ul>
 
 # Screenshots
-<h4>Add Data to your Realtime Firebase Database</h4>
+<h4>Add list of companies to your Realtime Firebase Database</h4>
 <img src = "http://ui2n.com/git-screenshots/fire1.png" width="400" height="auto">
-<h4>Get saved data from firebase database</h4>
+<h4>Get all the saved companies data from firebase database</h4>
 <img src = "http://ui2n.com/git-screenshots/fire2.png" width="400" height="auto">
-
+<h4>Add products under a company</h4>
 <img src = "http://ui2n.com/git-screenshots/fire3.png" width="400" height="auto">
+<h4>Get all products under a company</h4>
 <img src = "http://ui2n.com/git-screenshots/fire4.png" width="400" height="auto">
 
