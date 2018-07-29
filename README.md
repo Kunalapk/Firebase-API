@@ -1,12 +1,5 @@
 # Firebase-API
 
-# Screenshots
-<img src = "http://ui2n.com/git-screenshots/fire1.png" width="200" height="auto">
-<img src = "http://ui2n.com/git-screenshots/fire2.png" width="200" height="auto">
-<img src = "http://ui2n.com/git-screenshots/fire3.png" width="200" height="auto">
-<img src = "http://ui2n.com/git-screenshots/fire4.png" width="200" height="auto">
-
-
 # Setting up the sample
 <ul>
   <li>Create a Firebase Project using the Firebase Console.</li>
@@ -26,4 +19,12 @@ This sample comes with a web-based UI for testing the function. To test locally 
   <li>Sign out. You should no longer be able to access the API.</li>
 </ul>
 
+# Screenshots
+<h4>Add Data to your Realtime Firebase Database</h4>
+<img src = "http://ui2n.com/git-screenshots/fire1.png" width="400" height="auto">
+<h4>Get saved data from firebase database</h4>
+<img src = "http://ui2n.com/git-screenshots/fire2.png" width="400" height="auto">
+
+<img src = "http://ui2n.com/git-screenshots/fire3.png" width="400" height="auto">
+<img src = "http://ui2n.com/git-screenshots/fire4.png" width="400" height="auto">
 
