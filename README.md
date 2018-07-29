@@ -1,5 +1,12 @@
 # Firebase-API
 
+# Screenshots
+<img src = "http://ui2n.com/git-screenshots/fire1.png" width="200" height="auto">
+<img src = "http://ui2n.com/git-screenshots/fire2.png" width="200" height="auto">
+<img src = "http://ui2n.com/git-screenshots/fire3.png" width="200" height="auto">
+<img src = "http://ui2n.com/git-screenshots/fire4.png" width="200" height="auto">
+
+
 # Setting up the sample
 <ul>
   <li>Create a Firebase Project using the Firebase Console.</li>
@@ -18,3 +25,5 @@ This sample comes with a web-based UI for testing the function. To test locally 
   <li>Create messages and explore them using the List and Detail sections.</li>
   <li>Sign out. You should no longer be able to access the API.</li>
 </ul>
+
+
