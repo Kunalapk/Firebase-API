@@ -12,8 +12,8 @@
 # Deploy and test
 This sample comes with a web-based UI for testing the function. To test locally do:
 <ul>
-  <li>Start serving your project locally using firebase serve --only hosting,functions</li>
-  <li>Open the app in a browser at https://localhost:5000.</li>
+  <li>Start serving your project locally using <b>firebase serve --only hosting,functions</b></li>
+  <li>Open the app in a browser at <b>https://localhost:5000</b>.</li>
   <li>Sign in to the web app in the browser using Google Sign-In</li>
   <li>Create messages and explore them using the List and Detail sections.</li>
   <li>Sign out. You should no longer be able to access the API.</li>
