@@ -1,4 +1,5 @@
 # Firebase-API
+A sample demonstrating the Firebase APIs using the Node.js Admin SDK. For more information, see https://firebase.google.com.
 
 # Setting up the sample
 <ul>
